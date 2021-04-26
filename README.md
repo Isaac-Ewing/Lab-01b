@@ -1,7 +1,7 @@
 # Lab-01b
 - The best lab
 - No better lab
-- Everyone agrees
+- Everyone agrees 
 
 ## Reasoning
 _Why is it the best lab?_
@@ -12,4 +12,3 @@ _Why is it the best lab?_
 |This|Is|An|Empty|
 |---|---|---|---|
 |Table|   |   |   |
-|   |   |   |   |
